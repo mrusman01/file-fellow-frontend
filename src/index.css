@@ -1,0 +1,18 @@
+body{
+    margin: 0px !important;
+    /* Hide the vertical scrollbar */
+::-webkit-scrollbar {
+    width: 0;
+  }
+  
+  /* Hide the horizontal scrollbar */
+  ::-webkit-scrollbar-horizontal {
+    display: none;
+  }
+  
+  /* Hide the vertical scrollbar thumb */
+  ::-webkit-scrollbar-thumb {
+    display: none;
+  }
+  
+}
